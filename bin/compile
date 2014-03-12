@@ -11,6 +11,7 @@
 #############################################################
 
 BIN_DIR=$(dirname $0)
+ENV_DIR=$3
 
 # Include helper
 . "$BIN_DIR/helper.sh"
